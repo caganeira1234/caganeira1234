@@ -20,10 +20,6 @@ async function enviarScript(scriptText){
 	}
 	
 	return lines.length;
-}
-
-enviarScript(`
-filme  frozen da jaca
 
 
 
